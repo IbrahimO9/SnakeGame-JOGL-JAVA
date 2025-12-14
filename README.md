@@ -66,15 +66,15 @@ This section covers how to install the specific Java JDK, Eclipse IDE, and JOGL 
 5.  Finish.
 6.  Add the source code (`Snake.java`) to the `src` folder.
 
-### 5. Running the Game
+### 5. Running the test Code
 
-1.  Open `src/test/Snake.java`.
+1.  Open `src/test/Snake.java` (or your test class).
 2.  Run the file as a Java Application.
-3.  You should see the game window.
+3.  You should see a **Red Box** in the middle of the screen. This confirms the JOGL libraries and Setup are working correctly.
 
 ### Final Result
 
-![Game Result](image.png)
+![Test Result](image.png)
 
 ---
 
